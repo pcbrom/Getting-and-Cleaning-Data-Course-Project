@@ -8,6 +8,6 @@ Basically collect the data and concatenate them by adding the labels suggested b
 * train.csv
 * tidy_average_data.txt
 
-The original database can be obtained directly here (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+The original database can be obtained directly [here] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 For more information on how data was collected and its purpose click [here] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
